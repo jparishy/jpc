@@ -62,7 +62,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 2.0)
+  bundler (~> 2.0.2)
   forty_jekyll_theme!
   jekyll (~> 3.8)
 
