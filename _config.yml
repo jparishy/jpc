@@ -2,7 +2,8 @@
 title: JP
 subtitle: Software Developer
 email: hello@juliusparishy.com
-description: "I'm a Software Developer in Philadelphia, PA<br>I build apps, websites, and REST APIs"
+description1: "I'm a Software Developer in Philadelphia, PA"
+description2: "I build apps, websites, and REST APIs"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://juliusparishy.com/
 author: Julius Parishy
