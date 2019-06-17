@@ -1,34 +1,36 @@
----
-layout: default
----
-{% assign author = site.data.authors[page.author] %}
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
 
-<h2>{{ page.title }}</h2>
+{% include head.html %}
 
-<time datetime="{{ page.date }}">
-  <small>
-    <strong>{{ page.date | date_to_string }}</strong>
-    {% if author %}
-      by {{ author.name }}
-    {% endif %}
-  </small>
-</time>
+<body>
 
-{% include page-intro.html %}
+    {% include header.html %} 
+    
+    
+<!-- Main -->
+<div id="main" class="alt">
 
-{{ content }}
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>{{ page.title }}</h1>
+		</header>
+		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+		<p>{{ content }}</p>
+	</div>
+</section>
 
-<nav aria-label="Adjacent Posts">
-  <ul>
-    {% if page.previous.url %}
-      <li>
-        <a href="{{page.previous.url}}" rel="prev">&laquo; {{page.previous.title}}</a>
-      </li>
-    {% endif %}
-    {% if page.next.url %}
-      <li>
-        <a href="{{page.next.url}}" rel="next">{{page.next.title}} &raquo;</a>
-      </li>
-    {% endif %}
-  </ul>
-</nav>
+</div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
