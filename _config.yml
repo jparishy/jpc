@@ -1,10 +1,11 @@
 # site settings
 title: JP
 subtitle: Software Developer
+copyright: Julius Parishy
 email: hello@juliusparishy.com
-description1: "Freelance Developer / Philadelphia, PA"
-description2: "I build cool stuff in Philly"
-description3: "Apps, websites, and REST APIs"
+description1: "Philadelphia, PA"
+description2: "I build cool stuff"
+description3: "Apps, websites, REST APIs"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://juliusparishy.com/
 author: Julius Parishy
