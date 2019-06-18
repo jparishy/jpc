@@ -18,7 +18,7 @@ And for everything else: **I'm a quick learner**.
 
 # About Me
 
-I love to **shoot pool** and explore forests. I dig coffee and want to **write screenplays** for movies one day.
+I love to **shoot pool** and explore forests. I dig coffee and want to **write screenplays** for movies one day.    
 
 In the meantime, I write **great code** for **great companies**.
 
