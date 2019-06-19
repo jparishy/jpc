@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-description: Get to know me
+short_description: Get to know me
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
