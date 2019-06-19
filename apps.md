@@ -32,7 +32,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="about.html" class="image">
+		<a href="about" class="image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -42,13 +42,13 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="about.html" class="button">Learn more</a></li>
+					<li><a href="about" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="about.html" class="image">
+		<a href="about" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -58,13 +58,13 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="about.html" class="button">Learn more</a></li>
+					<li><a href="about" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="about.html" class="image">
+		<a href="about" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -74,7 +74,7 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="about.html" class="button">Learn more</a></li>
+					<li><a href="about" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -89,7 +89,7 @@ nav-menu: true
 		</header>
 		<p>Most apps can't do that much without a backend service that exposes an API. I build those too.</p>
 		<ul class="actions">
-			<li><a href="apis.html" class="button next">API Development</a></li>
+			<li><a href="apis" class="button next">API Development</a></li>
 		</ul>
 	</div>
 </section>

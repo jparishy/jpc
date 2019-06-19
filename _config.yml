@@ -14,6 +14,7 @@ street_address: WeWork c/o Julius Parishy<br>1010 N. Hancock St
 city: Philadelphia
 state: PA
 zip_code: 19123
+permalink: /:title
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

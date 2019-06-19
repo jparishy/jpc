@@ -402,7 +402,7 @@ print 'It took ' + i + ' iterations to sort the deck.';
 		</header>
 		<p>In addition to APIs, I build iOS and Android apps.</p>
 		<ul class="actions">
-			<li><a href="apis.html" class="button next">App Development</a></li>
+			<li><a href="apps" class="button next">App Development</a></li>
 		</ul>
 	</div>
 </section>
