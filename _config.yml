@@ -33,3 +33,9 @@ sass:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-142500700-1
+    anonymizeIp: false
