@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: API Development
+title: Backend Development
 short_description: I know REST like the back of my hand
 description: Work with me to develop backend APIs for your application targeting mobile apps, React apps, or public-facing consumer APIs.
 image: assets/images/pic07.jpg
@@ -32,7 +32,7 @@ nav-menu: true
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Django & DRF</h3>
-		<p>Most of the API development I do in 2019 happens in Python 3 with Django and DRF. I have strong feelings about DRF, many negative, but given its ubiquity it tends to be the best tool for the job. I'm a pragmatist at heart. :)</p>
+		<p>Most of the Backend development I do in 2019 happens in Python 3 with Django and DRF. I have strong feelings about DRF, many negative, but given its ubiquity it tends to be the best tool for the job. I'm a pragmatist at heart. :)</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Express.js</h3>
