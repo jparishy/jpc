@@ -8,7 +8,7 @@ description1: "Philadelphia, PA"
 description2: "I build cool stuff"
 description3: "Apps, websites, REST APIs"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://juliusparishy.com/
+url: https://juliusparishy.com
 author: Julius Parishy
 street_address: WeWork c/o Julius Parishy<br>1010 N. Hancock St
 city: Philadelphia
@@ -30,3 +30,6 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+plugins:
+  - jekyll-sitemap
