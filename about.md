@@ -4,6 +4,7 @@ title: About Me
 short_description: Get to know me
 image: assets/images/pic11.jpg
 nav-menu: true
+tag: page
 ---
 
 # The Gist

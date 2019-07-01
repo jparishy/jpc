@@ -5,6 +5,7 @@ short_description: I know REST like the back of my hand
 description: Work with me to develop backend APIs for your application targeting mobile apps, React apps, or public-facing consumer APIs.
 image: assets/images/pic07.jpg
 nav-menu: true
+tag: page
 ---
 
 <!-- Main -->

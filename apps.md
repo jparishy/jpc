@@ -1,28 +1,21 @@
 ---
 title: App Development
 layout: landing
-short_description: "I build beautiful iOS and Android apps."
+short_description: I build beautiful iOS and Android apps
 description: I've built apps used by millions of users and love to delight people with pretty, functional apps.
 image: assets/images/pic12.jpg
 nav-menu: true
+tag: page
 ---
 
 <!-- Main -->
 <div id="main">
   <!-- One -->
-  <section id="one">
-    <div class="inner">
-      <header class="major">
-        <h2>Building Apps</h2>
-      </header>
-      <p></p>
-    </div>
-  </section>
 
   <section id="one">
     <div class="inner">
       <header class="major">
-        <h2>Past Work</h2>
+        <h2>Past Mobile App Work (iOS & Android)</h2>
       </header>
       <p>
         I've been building apps since 2008 and have a lot of experience on

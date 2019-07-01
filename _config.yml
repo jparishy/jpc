@@ -10,7 +10,7 @@ description3: "Apps, websites, REST APIs"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://juliusparishy.com
 author: Julius Parishy
-street_address: WeWork c/o Julius Parishy<br>1010 N. Hancock St
+street_address: Julius Parishy c/o WeWork<br>1010 N. Hancock St
 city: Philadelphia
 state: PA
 zip_code: 19123
@@ -18,7 +18,7 @@ permalink: /:title
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # social settings
 github_url: https://github.com/jparishy

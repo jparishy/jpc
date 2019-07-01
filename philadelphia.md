@@ -5,6 +5,7 @@ description: Building Software in the City of Brotherly Love
 image: assets/images/pic12.jpg
 show_tile: false
 nav-menu: true
+tag: page
 ---
 
 <!-- Main -->
