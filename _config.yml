@@ -39,3 +39,7 @@ jekyll_analytics:
   GoogleAnalytics:
     id: UA-142500700-1
     anonymizeIp: false
+
+# Include robots.txt in the build output
+include:
+  - robots.txt
